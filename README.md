@@ -1,2 +1,2 @@
-# Disease Prediction
- Disease prediction using ML
+# Image Generator
+ Image generation using AI
